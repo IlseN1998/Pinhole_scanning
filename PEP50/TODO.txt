@@ -1,2 +1,6 @@
-De oude code begrijpen.
-De oude code optimizen en beter te lezen maken
+TO DO Week 1:
+- De oude code begrijpen.
+- De oude code optimizen en beter te lezen maken
+- Ruwe planning voor de komende weken maken inclusief tijdschema.
+- Taakverdeling: wie is voor welk onderdeel eindverantwoordelijk?
+- Afspraken met Jarno maken over de begeleiding: hoe vaak sturen wij hem updates van ons werk en wat kunnen wij van hem verwachten?
